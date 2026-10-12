@@ -16,7 +16,7 @@ An open-source Japanese language learning platform and resource hub specifically
 
 - 📝 **JLPT N5–N2 Datasets:** Japanese–Myanmar vocabulary sets, grammar explanations, and context sentence databases.
 - 💡 **Practice Exercises:** Interactive quiz materials, JLPT-style practice tests, and grammar drills.
-- 🛠️ **Learning Tools & Scripts:** Automation scripts and digital study tools designed to streamline daily study workflows and vocabulary retention.
+-   **Learning Tools & Scripts:** Automation scripts and digital study tools designed to streamline daily study workflows and vocabulary retention.
 
 ---
 
